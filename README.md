@@ -1,24 +1,23 @@
-#Creating a Simple RESTful Web App with Node.js, Express, and MongoDB
+#Creating a Simple RESTful Blogging Platform with Node.js, Express, and MongoDB
 
-A complete sample project for Front-End developers teaching the basics of REST and using them to build an easy, fast, single-page web app.
+Based on Christopher Buecheler's tutorial end result, this web app is designed to easily create blog entries and display them.
 
 ## Quickstart
 
-[Visit the tutorial online](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/), follow along with it, write your own code, compare it to this working sample code.
 
 **Note: If you want to run this sample code, you will need to do an NPM Install, as the node_modules directory has been removed from the repo.**
 
 
 ## Author
 
-Christopher Buecheler is a front-end developer for a small San Francisco startup. Previously he's worked for companies like GameSpy, OkCupid, Crispy Gamer, and Comcast. You can visit him at [his website](http://cwbuecheler.com).
+Jeff Burroughs is an independent web developer.  Previously he's worked for companies like Red Lambda, Inc., S2G, and [Spark Imaginations](http://sparkimaginations.com).  He and his friends are currently working on starting up [dc254](http://dc254.com).
 
 
 ## Contents
 
 * /public - static directories suchs as /images
-* /routes - route files for tutorial project
-* /views - views for tutorial project
+* /routes - route files for this project
+* /views - views for this project
 * README.md - this file
-* app.js - central app file for tutorial project
-* package.json - package info for tutorial project
+* app.js - central app file for this project
+* package.json - package info for this project
